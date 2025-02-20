@@ -1,0 +1,16 @@
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\bin\Debug\net5.0\Lesson2.exe
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\bin\Debug\net5.0\Lesson2.deps.json
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\bin\Debug\net5.0\Lesson2.runtimeconfig.json
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\bin\Debug\net5.0\Lesson2.runtimeconfig.dev.json
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\bin\Debug\net5.0\Lesson2.dll
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\bin\Debug\net5.0\ref\Lesson2.dll
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\bin\Debug\net5.0\Lesson2.pdb
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\obj\Debug\net5.0\Lesson2.csproj.AssemblyReference.cache
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\obj\Debug\net5.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\obj\Debug\net5.0\Lesson2.AssemblyInfoInputs.cache
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\obj\Debug\net5.0\Lesson2.AssemblyInfo.cs
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\obj\Debug\net5.0\Lesson2.csproj.CoreCompileInputs.cache
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\obj\Debug\net5.0\Lesson2.dll
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\obj\Debug\net5.0\ref\Lesson2.dll
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\obj\Debug\net5.0\Lesson2.pdb
+D:\PROG\110a\Decision algorithms and data structures\Lesson2\obj\Debug\net5.0\Lesson2.genruntimeconfig.cache
